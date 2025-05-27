@@ -1,5 +1,5 @@
 # fairway_php_project
-This is project doing in the Fairway course taught by Sayar EiMaung. 
+This is project doing in the Fairway course taught by Sayar EiMaung. I got project code flow understanding and error tracing by myself.
 
 ## ✅ Features
 - **User Registration**  
